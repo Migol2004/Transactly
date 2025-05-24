@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\migsb\\source\\repos\\Transactly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9B4562-5AEA-4819-850E-89D46290C680}|Transactly\\Transactly.csproj|c:\\users\\migsb\\source\\repos\\transactly\\transactly\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9B4562-5AEA-4819-850E-89D46290C680}|Transactly\\Transactly.csproj|solutionrelative:transactly\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9B4562-5AEA-4819-850E-89D46290C680}|Transactly\\Transactly.csproj|c:\\users\\migsb\\source\\repos\\transactly\\transactly\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9B4562-5AEA-4819-850E-89D46290C680}|Transactly\\Transactly.csproj|solutionrelative:transactly\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9B4562-5AEA-4819-850E-89D46290C680}|Transactly\\Transactly.csproj|c:\\users\\migsb\\source\\repos\\transactly\\transactly\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9B4562-5AEA-4819-850E-89D46290C680}|Transactly\\Transactly.csproj|solutionrelative:transactly\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9B4562-5AEA-4819-850E-89D46290C680}|Transactly\\Transactly.csproj|c:\\users\\migsb\\source\\repos\\transactly\\transactly\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9B4562-5AEA-4819-850E-89D46290C680}|Transactly\\Transactly.csproj|solutionrelative:transactly\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9B4562-5AEA-4819-850E-89D46290C680}|Transactly\\Transactly.csproj|C:\\Users\\migsb\\source\\repos\\Transactly\\transactly\\receiptsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C9B4562-5AEA-4819-850E-89D46290C680}|Transactly\\Transactly.csproj|solutionrelative:transactly\\receiptsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9B4562-5AEA-4819-850E-89D46290C680}|Transactly\\Transactly.csproj|c:\\users\\migsb\\source\\repos\\transactly\\transactly\\receiptsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9B4562-5AEA-4819-850E-89D46290C680}|Transactly\\Transactly.csproj|solutionrelative:transactly\\receiptsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9B4562-5AEA-4819-850E-89D46290C680}|Transactly\\Transactly.csproj|C:\\Users\\migsb\\source\\repos\\Transactly\\transactly\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C9B4562-5AEA-4819-850E-89D46290C680}|Transactly\\Transactly.csproj|solutionrelative:transactly\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9B4562-5AEA-4819-850E-89D46290C680}|Transactly\\Transactly.csproj|c:\\users\\migsb\\source\\repos\\transactly\\transactly\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9B4562-5AEA-4819-850E-89D46290C680}|Transactly\\Transactly.csproj|solutionrelative:transactly\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9B4562-5AEA-4819-850E-89D46290C680}|Transactly\\Transactly.csproj|c:\\users\\migsb\\source\\repos\\transactly\\transactly\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{1C9B4562-5AEA-4819-850E-89D46290C680}|Transactly\\Transactly.csproj|solutionrelative:transactly\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\migsb\\source\\repos\\Transactly\\Transactly\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "Transactly\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\migsb\\source\\repos\\Transactly\\Transactly\\DatabaseManager.cs",
+              "RelativeToolTip": "Transactly\\DatabaseManager.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAhwB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:47:35.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReceiptsForm.cs",
+              "DocumentMoniker": "C:\\Users\\migsb\\source\\repos\\Transactly\\Transactly\\ReceiptsForm.cs",
+              "RelativeDocumentMoniker": "Transactly\\ReceiptsForm.cs",
+              "ToolTip": "C:\\Users\\migsb\\source\\repos\\Transactly\\Transactly\\ReceiptsForm.cs",
+              "RelativeToolTip": "Transactly\\ReceiptsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T12:06:55.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReceiptsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\migsb\\source\\repos\\Transactly\\Transactly\\ReceiptsForm.cs",
+              "RelativeDocumentMoniker": "Transactly\\ReceiptsForm.cs",
+              "ToolTip": "C:\\Users\\migsb\\source\\repos\\Transactly\\Transactly\\ReceiptsForm.cs [Design]",
+              "RelativeToolTip": "Transactly\\ReceiptsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T12:06:29.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\migsb\\source\\repos\\Transactly\\Transactly\\MainForm.cs",
+              "RelativeDocumentMoniker": "Transactly\\MainForm.cs",
+              "ToolTip": "C:\\Users\\migsb\\source\\repos\\Transactly\\Transactly\\MainForm.cs",
+              "RelativeToolTip": "Transactly\\MainForm.cs",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAgwFgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:24:09.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "C:\\Users\\migsb\\source\\repos\\Transactly\\Transactly\\MainForm.resx",
+              "RelativeDocumentMoniker": "Transactly\\MainForm.resx",
+              "ToolTip": "C:\\Users\\migsb\\source\\repos\\Transactly\\Transactly\\MainForm.resx",
+              "RelativeToolTip": "Transactly\\MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-22T07:23:52.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\migsb\\source\\repos\\Transactly\\Transactly\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Transactly\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\migsb\\source\\repos\\Transactly\\Transactly\\MainForm.Designer.cs",
+              "RelativeToolTip": "Transactly\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:23:50.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\migsb\\source\\repos\\Transactly\\Transactly\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Transactly\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\migsb\\source\\repos\\Transactly\\Transactly\\Form1.Designer.cs",
+              "RelativeToolTip": "Transactly\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:22:14.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\migsb\\source\\repos\\Transactly\\Transactly\\Form1.cs",
+              "RelativeDocumentMoniker": "Transactly\\Form1.cs",
+              "ToolTip": "C:\\Users\\migsb\\source\\repos\\Transactly\\Transactly\\Form1.cs",
+              "RelativeToolTip": "Transactly\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:07:05.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\migsb\\source\\repos\\Transactly\\Transactly\\Form1.cs",
+              "RelativeDocumentMoniker": "Transactly\\Form1.cs",
+              "ToolTip": "C:\\Users\\migsb\\source\\repos\\Transactly\\Transactly\\Form1.cs [Design]",
+              "RelativeToolTip": "Transactly\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:54:15.375Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
